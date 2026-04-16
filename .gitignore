@@ -1,0 +1,4 @@
+node_modules/
+backend/node_modules/
+backend/task_manager.db
+frontend/.DS_Store
